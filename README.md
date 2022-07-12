@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DareAngeL
-- 👀 I’m interested in Android Development and Game Development
+- 👀 I’m interested in Android Development, Desktop Development and Game Development
 - 📫 How to reach me - master.isheart@gmail.com
 
 <!---
