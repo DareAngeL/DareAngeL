@@ -7,11 +7,12 @@ Experienced at back-end and front-end development.
 - I also do software applications.
 
 Some of the languages I know:
-1. Java - Expert
-2. Javascript - Intermediate
-3. Python - Junior
-4. Kotlin - Junior
-5. C# - Junior
+1. Java
+2. Javascript
+3. Python
+4. Kotlin
+5. C#
+6. C++
 
 I am currently upskilling and learning web development.
 If you want to contact me, just email me at: **rene.tajosjr@gmail.com**
