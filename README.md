@@ -1,5 +1,5 @@
 ## About Me
-I am currently the Software QA Lead Engineer of Lee Systems Technology Ventures Inc.
+I am currently the Software QA of Lee Systems Technology Ventures Inc.
 Experienced at software development.
 
 - I do automation functional testing with Javascript and python selenium.
