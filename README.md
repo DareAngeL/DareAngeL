@@ -11,10 +11,12 @@ Some of the languages I know:
 2. Javascript
 3. Python
 4. Kotlin
-5. C#
-6. C++
+5. HTML/HTML5
+6. CSS
+7. JSX
+8. C#
+9. C++
 
-I am currently upskilling and learning web development.
-If you want to contact me, just email me at: **rene.tajosjr@gmail.com**
+If you want to contact me, just email me at: **rene.tajosjr@gmail.com** or **master.isheart@gmail.com**
 
 Contact Number: **+63-9760265883** (Note: Sometimes, I can't receive your message due to the network coverage problem in my area. It is advisable to contact me at my email address provided above because I am always online. Thanks.) :)
