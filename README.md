@@ -12,12 +12,12 @@ Stack:
 Some of the languages I know (This is in-order base on my experty level):
 1. Java
 2. Javascript
-3. Typescript
-4. Python
-5. Kotlin
-6. HTML/HTML5
-7. CSS
-8. JSX
+3. HTML/HTML5
+4. JSX
+5. Typescript
+6. CSS
+7. Python
+8. Kotlin
 9. C#
 
 If you want to contact me, just email me at: **rene.tajosjr@gmail.com** or **master.isheart@gmail.com**
